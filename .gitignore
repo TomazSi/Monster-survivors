@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images
