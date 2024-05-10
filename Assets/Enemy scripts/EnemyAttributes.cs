@@ -1,3 +1,4 @@
+using Assets;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -24,6 +25,8 @@ public class EnemyAttributes : MonoBehaviour
     }
     public void Die()
     {
+        if (ScoreManager.Instance != null)
+            ScoreManager.Instance.AddScore(10); 
         Destroy(gameObject);
         Debug.Log("Monster died");
     }
