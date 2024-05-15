@@ -138,7 +138,10 @@ GameObject:
   - component: {fileID: 39209460}
   - component: {fileID: 39209461}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 39209462}
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
   m_Layer: 6
@@ -163,7 +166,10 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 39209457}
 <<<<<<< HEAD
+<<<<<<< HEAD
   animator: {fileID: 39209462}
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 --- !u!50 &39209457
@@ -256,7 +262,11 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalScale: {x: 0.7475, y: 1, z: 1}
+=======
+  m_LocalScale: {x: 0.7475, y: 1.698, z: 1}
+>>>>>>> origin/master
 =======
   m_LocalScale: {x: 0.7475, y: 1.698, z: 1}
 >>>>>>> origin/master
@@ -336,6 +346,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
 <<<<<<< HEAD
+<<<<<<< HEAD
   animator: {fileID: 39209462}
 --- !u!95 &39209462
 Animator:
@@ -358,6 +369,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 --- !u!1 &241407644
@@ -651,7 +664,10 @@ GameObject:
   - component: {fileID: 622947755}
   - component: {fileID: 622947754}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 622947758}
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
   m_Layer: 8
@@ -789,6 +805,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!95 &622947758
 Animator:
   serializedVersion: 5
@@ -810,6 +827,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 --- !u!1 &925590602
@@ -892,6 +911,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 925590602}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1615239949 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5726860399805924310, guid: cd2c2b71fb31aa742960e27b2bfe2c67, type: 3}
@@ -918,6 +938,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 --- !u!1 &1729714849
@@ -1060,10 +1082,14 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5726860399805924310, guid: cd2c2b71fb31aa742960e27b2bfe2c67, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1615239950}
+=======
+    m_AddedComponents: []
+>>>>>>> origin/master
 =======
     m_AddedComponents: []
 >>>>>>> origin/master

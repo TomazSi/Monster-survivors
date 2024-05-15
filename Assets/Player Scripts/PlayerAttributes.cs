@@ -18,7 +18,10 @@ public class PlayerAttributes : MonoBehaviour
     public float attackRange = 1f;
     public LayerMask enemyLayers;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public Animator animator;
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 
@@ -51,7 +54,10 @@ public class PlayerAttributes : MonoBehaviour
     {
         int attackDamage = damage * 5;
 <<<<<<< HEAD
+<<<<<<< HEAD
         animator.SetBool("Attacking", true);
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(basicAttackPoint.position,attackRange,enemyLayers);
@@ -60,7 +66,10 @@ public class PlayerAttributes : MonoBehaviour
             enemy.GetComponent<ZombieController>().enemyAttributes.ChangeHealth(attackDamage);
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
         animator.SetBool("Attacking", false);
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
     }
