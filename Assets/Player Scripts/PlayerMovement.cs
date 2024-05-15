@@ -6,9 +6,13 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
 
+<<<<<<< HEAD
 
     public Rigidbody2D rb;
     public Animator animator;
+=======
+    public Rigidbody2D rb;
+>>>>>>> origin/master
 
     Vector2 movement;
 
@@ -28,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position+movement * moveSpeed * Time.fixedDeltaTime);
+<<<<<<< HEAD
         if(rb.velocity != Vector2.zero)
         {
             animator.SetBool("Moving", true);
@@ -36,5 +41,8 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("Moving", false);
         }
+=======
+
+>>>>>>> origin/master
     }
 }

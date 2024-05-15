@@ -137,7 +137,10 @@ GameObject:
   - component: {fileID: 39209456}
   - component: {fileID: 39209460}
   - component: {fileID: 39209461}
+<<<<<<< HEAD
   - component: {fileID: 39209462}
+=======
+>>>>>>> origin/master
   m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
@@ -159,7 +162,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   rb: {fileID: 39209457}
+<<<<<<< HEAD
   animator: {fileID: 39209462}
+=======
+>>>>>>> origin/master
 --- !u!50 &39209457
 Rigidbody2D:
   serializedVersion: 4
@@ -249,7 +255,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.7475, y: 1, z: 1}
+=======
+  m_LocalScale: {x: 0.7475, y: 1.698, z: 1}
+>>>>>>> origin/master
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1739383097}
@@ -325,6 +335,7 @@ MonoBehaviour:
   enemyLayers:
     serializedVersion: 2
     m_Bits: 128
+<<<<<<< HEAD
   animator: {fileID: 39209462}
 --- !u!95 &39209462
 Animator:
@@ -347,6 +358,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 --- !u!1 &241407644
 GameObject:
   m_ObjectHideFlags: 0
@@ -637,7 +650,10 @@ GameObject:
   - component: {fileID: 622947756}
   - component: {fileID: 622947755}
   - component: {fileID: 622947754}
+<<<<<<< HEAD
   - component: {fileID: 622947758}
+=======
+>>>>>>> origin/master
   m_Layer: 8
   m_Name: Spawner
   m_TagString: Untagged
@@ -772,6 +788,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!95 &622947758
 Animator:
   serializedVersion: 5
@@ -793,6 +810,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 --- !u!1 &925590602
 GameObject:
   m_ObjectHideFlags: 0
@@ -872,6 +891,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 925590602}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1615239949 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5726860399805924310, guid: cd2c2b71fb31aa742960e27b2bfe2c67, type: 3}
@@ -898,6 +918,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> origin/master
 --- !u!1 &1729714849
 GameObject:
   m_ObjectHideFlags: 0
@@ -1037,10 +1059,14 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
+<<<<<<< HEAD
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5726860399805924310, guid: cd2c2b71fb31aa742960e27b2bfe2c67, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1615239950}
+=======
+    m_AddedComponents: []
+>>>>>>> origin/master
   m_SourcePrefab: {fileID: 100100000, guid: cd2c2b71fb31aa742960e27b2bfe2c67, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
